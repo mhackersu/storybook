@@ -1,10 +1,11 @@
 import React from "react";
-import "./styles/main.scss";
+import "../styles/main.scss";
+import Background from "./Background";
 
 function App() {
 	return (
 		<div className="app">
-			<h1>Welcome</h1>
+			<Background />
 		</div>
 	);
 }
