@@ -1,5 +1,5 @@
 .cadillac-map {
-  background: url(../images/bkgd/_mapCadillac.svg);
+  background: url(../../../assets/images/bkgd/_mapCadillac.svg);
   background-repeat: no-repeat;
   background-position: center bottom;
   background-size: cover;
@@ -7,7 +7,7 @@
 
 @media screen and (min-width: 767px) {
 	.cadillac-map {
-		background: url(../images/bkgd/_mapCadillac.svg);
+		background: url(../../../assets/images/bkgd/_mapCadillac.svg);
 		background-repeat: no-repeat;
 		background-position: center;
 		background-size: cover;
@@ -18,7 +18,7 @@
 	and (max-width: 749px)
 	and (orientation: portrait) {
 	.cadillac-map {
-		background: url(../images/mobile/maps/_verticalCadillacMap.svg);
+		background: url(../../../assets/images/mobile/maps/_verticalCadillacMap.svg);
 		background-repeat: no-repeat;
 		background-position: center;
 		background-size: cover;
@@ -29,7 +29,7 @@
 	and (max-width: 667px)
 	and (orientation: landscape) {
 	.cadillac-map {
-		background: url(../images/mobile/maps/_horizontalCadillacMap.svg);
+		background: url(../../../assets/images/mobile/maps/_horizontalCadillacMap.svg);
 		background-repeat: no-repeat;
 		background-position: center;
 		background-size: cover;

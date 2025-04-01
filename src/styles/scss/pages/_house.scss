@@ -2,12 +2,12 @@
 #trigger4 {
 	#house {
 		@media screen and (min-width: 767px) {
-			background: url(../images/bkgd/house.png);
+			background: url(../../../assets/images/bkgd/house.png);
 			@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
 				only screen and (   min--moz-device-pixel-ratio: 1.5),
 				only screen and (     -o-min-device-pixel-ratio: 3/2),
 				only screen and (        min-device-pixel-ratio: 1.5) {
-					background: url(../images/bkgd/house@2x.png);
+					background: url(../../../assets/images/bkgd/house@2x.png);
 					background-size: 1440px 720px;
 				}
 		}
@@ -47,10 +47,10 @@
 
 		.modal {
 			.good {
-				background-image: url(../images/modal/modalHousePass.png);
+				background-image: url(../../../assets/images/modal/modalHousePass.png);
 			}
 			.bad {
-				background-image: url(../images/modal/modalHouseFail.png);
+				background-image: url(../../../assets/images/modal/modalHouseFail.png);
 			}
 		}
 	}
@@ -59,7 +59,7 @@
 
 @media screen and (max-width: 767px) {
 	/*.house-fg {
-		background: url(../images/bkgd/_houseFg.svg);
+		background: url(../../../assets/images/bkgd/_houseFg.svg);
 		background-repeat: no-repeat;
 		background-position: center bottom;
 		background-size: cover;
@@ -72,7 +72,7 @@
 	and (max-width: 767px)
 	and (orientation: portrait) {
 	.mobile-house-sport {
-		background: url(../images/mobile/house/_verticalHouseSport.svg);
+		background: url(../../../assets/images/mobile/house/_verticalHouseSport.svg);
 		background-repeat: no-repeat;
 		background-position: center;
 		background-size: cover;
@@ -83,7 +83,7 @@
 	and (max-width: 767px)
 	and (orientation: landscape) {
 	.mobile-house-sport {
-		background: url(../images/mobile/house/_horizontalHouseSport.svg);
+		background: url(../../../assets/images/mobile/house/_horizontalHouseSport.svg);
 		background-repeat: no-repeat;
 		background-position: center;
 		background-size: cover;
@@ -96,7 +96,7 @@
 	and (max-width: 767px)
 	and (orientation: portrait) {
 	.mobile-house-truck {
-		background: url(../images/mobile/house/_verticalHouseTruck.svg);
+		background: url(../../../assets/images/mobile/house/_verticalHouseTruck.svg);
 		background-repeat: no-repeat;
 		background-position: center;
 		background-size: cover;
@@ -107,7 +107,7 @@
 	and (max-width: 767px)
 	and (orientation: landscape) {
 	.mobile-house-truck {
-		background: url(../images/mobile/house/_horizontalHouseTruck.svg);
+		background: url(../../../assets/images/mobile/house/_horizontalHouseTruck.svg);
 		background-repeat: no-repeat;
 		background-position: center;
 		background-size: cover;
@@ -120,7 +120,7 @@
 	and (max-width: 767px)
 	and (orientation: portrait) {
 	.mobile-house-van {
-		background: url(../images/mobile/house/_verticalHouseVan.svg);
+		background: url(../../../assets/images/mobile/house/_verticalHouseVan.svg);
 		background-repeat: no-repeat;
 		background-position: center;
 		background-size: cover;
@@ -131,7 +131,7 @@
 	and (max-width: 767px)
 	and (orientation: landscape) {
 	.mobile-house-van {
-		background: url(../images/mobile/house/_horizontalHouseVan.svg);
+		background: url(../../../assets/images/mobile/house/_horizontalHouseVan.svg);
 		background-repeat: no-repeat;
 		background-position: center;
 		background-size: cover;
@@ -144,7 +144,7 @@
 	and (max-width: 767px)
 	and (orientation: portrait) {
 	.mobile-house-sedan {
-		background: url(../images/mobile/house/_verticalHouseSedan.svg);
+		background: url(../../../assets/images/mobile/house/_verticalHouseSedan.svg);
 		background-repeat: no-repeat;
 		background-position: center;
 		background-size: cover;
@@ -155,7 +155,7 @@
 	and (max-width: 767px)
 	and (orientation: landscape) {
 	.mobile-house-sedan {
-		background: url(../images/mobile/house/_horizontalHouseSedan.svg);
+		background: url(../../../assets/images/mobile/house/_horizontalHouseSedan.svg);
 		background-repeat: no-repeat;
 		background-position: center;
 		background-size: cover;

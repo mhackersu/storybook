@@ -1,5 +1,5 @@
 .austin-map {
-  background: url(../images/bkgd/_mapAustin.svg);
+  background: url(../../../assets/images/bkgd/_mapAustin.svg);
   background-repeat: no-repeat;
   background-position: center bottom;
   background-size: cover;
@@ -7,7 +7,7 @@
 
 @media screen and (min-width: 767px) {
 	.austin-map {
-		background: url(../images/bkgd/_mapAustin.svg);
+		background: url(../../../assets/images/bkgd/_mapAustin.svg);
 		background-repeat: no-repeat;
 		background-position: center;
 		background-size: cover;
@@ -18,7 +18,7 @@
 	and (max-width: 749px)
 	and (orientation: portrait) {
 	.austin-map {
-		background: url(../images/mobile/maps/_verticalAustinMap.svg);
+		background: url(../../../assets/images/mobile/maps/_verticalAustinMap.svg);
 		background-repeat: no-repeat;
 		background-position: center;
 		background-size: cover;
@@ -29,7 +29,7 @@
 	and (max-width: 667px)
 	and (orientation: landscape) {
 	.austin-map {
-		background: url(../images/mobile/maps/_horizontalAustinMap.svg);
+		background: url(../../../assets/images/mobile/maps/_horizontalAustinMap.svg);
 		background-repeat: no-repeat;
 		background-position: center;
 		background-size: cover;

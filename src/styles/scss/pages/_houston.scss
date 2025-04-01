@@ -2,12 +2,12 @@
 #trigger8{
 	#houston {
 		@media screen and (min-width: 767px) {
-			background: url(../images/bkgd/houston.png);
+			background: url(../../../assets/images/bkgd/houston.png);
 			@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
 				only screen and (   min--moz-device-pixel-ratio: 1.5),
 				only screen and (     -o-min-device-pixel-ratio: 3/2),
 				only screen and (        min-device-pixel-ratio: 1.5) {
-					background: url(../images/bkgd/houston@2x.png);
+					background: url(../../../assets/images/bkgd/houston@2x.png);
 					background-size: 1440px 720px;
 				}
 		}
@@ -63,14 +63,14 @@
 		}
 
 		.plate {
-			background: url(../images/plates/plateHouston.png);
+			background: url(../../../assets/images/plates/plateHouston.png);
 			background-size: 100% 100%;
 			background-repeat: no-repeat;
 			@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
 				only screen and (   min--moz-device-pixel-ratio: 1.5),
 				only screen and (     -o-min-device-pixel-ratio: 3/2),
 				only screen and (        min-device-pixel-ratio: 1.5) {
-					background: url(../images/plates/plateHouston@2x.png);
+					background: url(../../../assets/images/plates/plateHouston@2x.png);
 					background-size: 326px 164px;
 					@media screen and (max-width: 767px) {
 						background-size: 220px 114px;
@@ -80,10 +80,10 @@
 
 		.modal {
 			.good {
-				background-image: url(../images/modal/modalHoustonPass.png);
+				background-image: url(../../../assets/images/modal/modalHoustonPass.png);
 			}
 			.bad {
-				background-image: url(../images/modal/modalHoustonFail.png);
+				background-image: url(../../../assets/images/modal/modalHoustonFail.png);
 			}
 			.choice h4 {
 				font-size: 20px;
@@ -102,7 +102,7 @@
 
 @media screen and (max-width: 767px) {
 	/*.houston-fg {
-		background: url(../images/bkgd/_houstonFg.svg);
+		background: url(../../../assets/images/bkgd/_houstonFg.svg);
 		background-repeat: no-repeat;
 		background-position: center bottom;
 		background-size: cover;
@@ -115,7 +115,7 @@
 	and (max-width: 767px)
 	and (orientation: portrait) {
 	.mobile-houston-sport {
-		background: url(../images/mobile/houston/_verticalHoustonSport.svg);
+		background: url(../../../assets/images/mobile/houston/_verticalHoustonSport.svg);
 		background-repeat: no-repeat;
 		background-position: center;
 		background-size: cover;
@@ -126,7 +126,7 @@
 	and (max-width: 767px)
 	and (orientation: landscape) {
 	.mobile-houston-sport {
-		background: url(../images/mobile/houston/_horizontalHoustonSport.svg);
+		background: url(../../../assets/images/mobile/houston/_horizontalHoustonSport.svg);
 		background-repeat: no-repeat;
 		background-position: center;
 		background-size: cover;
@@ -139,7 +139,7 @@
 	and (max-width: 767px)
 	and (orientation: portrait) {
 	.mobile-houston-truck {
-		background: url(../images/mobile/houston/_verticalHoustonTruck.svg);
+		background: url(../../../assets/images/mobile/houston/_verticalHoustonTruck.svg);
 		background-repeat: no-repeat;
 		background-position: center;
 		background-size: cover;
@@ -150,7 +150,7 @@
 	and (max-width: 767px)
 	and (orientation: landscape) {
 	.mobile-houston-truck {
-		background: url(../images/mobile/houston/_horizontalHoustonTruck.svg);
+		background: url(../../../assets/images/mobile/houston/_horizontalHoustonTruck.svg);
 		background-repeat: no-repeat;
 		background-position: center;
 		background-size: cover;
@@ -163,7 +163,7 @@
 	and (max-width: 767px)
 	and (orientation: portrait) {
 	.mobile-houston-van {
-		background: url(../images/mobile/houston/_verticalHoustonVan.svg);
+		background: url(../../../assets/images/mobile/houston/_verticalHoustonVan.svg);
 		background-repeat: no-repeat;
 		background-position: center;
 		background-size: cover;
@@ -174,7 +174,7 @@
 	and (max-width: 767px)
 	and (orientation: landscape) {
 	.mobile-houston-van {
-		background: url(../images/mobile/houston/_horizontalHoustonVan.svg);
+		background: url(../../../assets/images/mobile/houston/_horizontalHoustonVan.svg);
 		background-repeat: no-repeat;
 		background-position: center;
 		background-size: cover;
@@ -187,7 +187,7 @@
 	and (max-width: 767px)
 	and (orientation: portrait) {
 	.mobile-houston-sedan {
-		background: url(../images/mobile/houston/_verticalHoustonSedan.svg);
+		background: url(../../../assets/images/mobile/houston/_verticalHoustonSedan.svg);
 		background-repeat: no-repeat;
 		background-position: center;
 		background-size: cover;
@@ -198,7 +198,7 @@
 	and (max-width: 767px)
 	and (orientation: landscape) {
 	.mobile-houston-sedan {
-		background: url(../images/mobile/houston/_horizontalHoustonSedan.svg);
+		background: url(../../../assets/images/mobile/houston/_horizontalHoustonSedan.svg);
 		background-repeat: no-repeat;
 		background-position: center;
 		background-size: cover;

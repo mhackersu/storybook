@@ -1,5 +1,5 @@
 .houston-map {
-  background: url(../images/bkgd/_mapHouston.svg);
+  background: url(../../../assets/images/bkgd/_mapHouston.svg);
   background-repeat: no-repeat;
   background-position: center bottom;
   background-size: cover;
@@ -7,7 +7,7 @@
 
 @media screen and (min-width: 767px) {
 	.houston-map {
-		background: url(../images/bkgd/_mapHouston.svg);
+		background: url(../../../assets/images/bkgd/_mapHouston.svg);
 		background-repeat: no-repeat;
 		background-position: center;
 		background-size: cover;
@@ -18,7 +18,7 @@
 	and (max-width: 749px)
 	and (orientation: portrait) {
 	.houston-map {
-		background: url(../images/mobile/maps/_verticalHoustonMap.svg);
+		background: url(../../../assets/images/mobile/maps/_verticalHoustonMap.svg);
 		background-repeat: no-repeat;
 		background-position: center;
 		background-size: cover;
@@ -29,7 +29,7 @@
 	and (max-width: 667px)
 	and (orientation: landscape) {
 	.houston-map {
-		background: url(../images/mobile/maps/_horizontalHoustonMap.svg);
+		background: url(../../../assets/images/mobile/maps/_horizontalHoustonMap.svg);
 		background-repeat: no-repeat;
 		background-position: center;
 		background-size: cover;

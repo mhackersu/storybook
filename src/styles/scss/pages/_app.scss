@@ -29,7 +29,7 @@ section {
     background: #152445;
 
     &.map-section {
-        background: url(../images/bkgd/_sandBkgd.svg);
+        background: url(../../../assets/images/bkgd/_sandBkgd.svg);
         background-size: cover;
     }
 }
@@ -151,7 +151,7 @@ img.people {
     color: #0f1a3c;
     position: absolute;
     top: 20px;
-    background: url(../images/elements/container_progress.png);
+    background: url(../../../assets/images/elements/container_progress.png);
     background-repeat: no-repeat;
     background-size: 100% 100%;
     height: auto;
@@ -370,12 +370,12 @@ img.people {
     }
 
     &.arrow_down {
-        background: url(../images/elements/button_down.png);
+        background: url(../../../assets/images/elements/button_down.png);
         background-repeat: no-repeat;
         background-size: 100% 100%;
         line-height: 52px;
         @media screen and (max-width: 768px) {
-            background: url(../images/elements/button_up.png);
+            background: url(../../../assets/images/elements/button_up.png);
             background-repeat: no-repeat;
             background-size: 100% 100%;
             line-height: 76px;
@@ -385,12 +385,12 @@ img.people {
         }
     }
     &.arrow_up {
-        background: url(../images/elements/button_up.png);
+        background: url(../../../assets/images/elements/button_up.png);
         background-repeat: no-repeat;
         background-size: 100% 100%;
         line-height: 76px;
         @media screen and (max-width: 768px) {
-            background: url(../images/elements/button_up.png);
+            background: url(../../../assets/images/elements/button_up.png);
             background-repeat: no-repeat;
             background-size: 100% 100%;
         }
@@ -399,13 +399,13 @@ img.people {
         }
     }
     &.arrow_left {
-        background: url(../images/elements/button_left.png);
+        background: url(../../../assets/images/elements/button_left.png);
         background-repeat: no-repeat;
         background-size: 100% 100%;
         line-height: 60px;
 
         @media screen and (max-width: 768px) {
-            background: url(../images/elements/button_up.png);
+            background: url(../../../assets/images/elements/button_up.png);
             background-repeat: no-repeat;
             background-size: 100% 100%;
             line-height: 76px;
@@ -445,7 +445,7 @@ a.btn {
 
     span.arrow {
         float: right;
-        background: url(../images/modal/arrow.png);
+        background: url(../../../assets/images/modal/arrow.png);
         background-repeat: no-repeat;
         background-size: 20px 15px;
         display: inline-block;

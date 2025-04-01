@@ -3,12 +3,12 @@
 
 	#austin {
 		@media screen and (min-width: 767px) {
-			background: url(../images/bkgd/austin.png);
+			background: url(../../../assets/images/bkgd/austin.png);
 			@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
 				only screen and (   min--moz-device-pixel-ratio: 1.5),
 				only screen and (     -o-min-device-pixel-ratio: 3/2),
 				only screen and (        min-device-pixel-ratio: 1.5) {
-					background: url(../images/bkgd/austin@2x.png);
+					background: url(../../../assets/images/bkgd/austin@2x.png);
 					background-size: 1440px 720px;
 				}
 		}
@@ -67,14 +67,14 @@
 		}
 
 		.plate {
-			background: url(../images/plates/plateAustin.png);
+			background: url(../../../assets/images/plates/plateAustin.png);
 			background-size: 100% 100%;
 			background-repeat: no-repeat;
 			@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
 				only screen and (   min--moz-device-pixel-ratio: 1.5),
 				only screen and (     -o-min-device-pixel-ratio: 3/2),
 				only screen and (        min-device-pixel-ratio: 1.5) {
-					background: url(../images/plates/plateAustin@2x.png);
+					background: url(../../../assets/images/plates/plateAustin@2x.png);
 					background-size: 326px 164px;
 					@media screen and (max-width: 767px) {
 						background-size: 220px 114px;
@@ -84,7 +84,7 @@
 
 		.modal {
 			.good {
-				background-image: url(../images/modal/modalAustinChill.png);
+				background-image: url(../../../assets/images/modal/modalAustinChill.png);
 			}
 			.choice h4, .answer .left-side h4 {
 				@media screen and (max-width: 374px) {
@@ -98,7 +98,7 @@
 
 	@media screen and (max-width: 767px) {
 		/* .austin-fg {
-		 	background: url(../images/bkgd/_austinFg.svg);
+		 	background: url(../../../assets/images/bkgd/_austinFg.svg);
 		 	background-repeat: no-repeat;
 		 	background-position: center bottom;
 		 	background-size: cover;
@@ -111,7 +111,7 @@
 		and (max-width: 767px)
 		and (orientation: portrait) {
 		.mobile-austin-sport {
-			background: url(../images/mobile/austin/_verticalAustinSport.svg);
+			background: url(../../../assets/images/mobile/austin/_verticalAustinSport.svg);
 			background-repeat: no-repeat;
 			background-position: center;
 			background-size: cover;
@@ -122,7 +122,7 @@
 		and (max-width: 767px)
 		and (orientation: landscape) {
 		.mobile-austin-sport {
-			background: url(../images/mobile/austin/_horizontalAustinSport.svg);
+			background: url(../../../assets/images/mobile/austin/_horizontalAustinSport.svg);
 			background-repeat: no-repeat;
 			background-position: center;
 			background-size: cover;
@@ -135,7 +135,7 @@
 		and (max-width: 767px)
 		and (orientation: portrait) {
 		.mobile-austin-truck {
-			background: url(../images/mobile/austin/_verticalAustinTruck.svg);
+			background: url(../../../assets/images/mobile/austin/_verticalAustinTruck.svg);
 			background-repeat: no-repeat;
 			background-position: center;
 			background-size: cover;
@@ -146,7 +146,7 @@
 		and (max-width: 767px)
 		and (orientation: landscape) {
 		.mobile-austin-truck {
-			background: url(../images/mobile/austin/_horizontalAustinTruck.svg);
+			background: url(../../../assets/images/mobile/austin/_horizontalAustinTruck.svg);
 			background-repeat: no-repeat;
 			background-position: center;
 			background-size: cover;
@@ -160,7 +160,7 @@
 	and (max-width: 767px)
 	and (orientation: portrait) {
 	.mobile-austin-van {
-		background: url(../images/mobile/austin/_verticalAustinVan.svg);
+		background: url(../../../assets/images/mobile/austin/_verticalAustinVan.svg);
 		background-repeat: no-repeat;
 		background-position: center;
 		background-size: cover;
@@ -171,7 +171,7 @@
 	and (max-width: 767px)
 	and (orientation: landscape) {
 	.mobile-austin-van {
-		background: url(../images/mobile/austin/_horizontalAustinVan.svg);
+		background: url(../../../assets/images/mobile/austin/_horizontalAustinVan.svg);
 		background-repeat: no-repeat;
 		background-position: center;
 		background-size: cover;
@@ -184,7 +184,7 @@
 	and (max-width: 767px)
 	and (orientation: portrait) {
 	.mobile-austin-sedan {
-		background: url(../images/mobile/austin/_verticalAustinSedan.svg);
+		background: url(../../../assets/images/mobile/austin/_verticalAustinSedan.svg);
 		background-repeat: no-repeat;
 		background-position: center;
 		background-size: cover;
@@ -195,7 +195,7 @@
 	and (max-width: 767px)
 	and (orientation: landscape) {
 	.mobile-austin-sedan {
-		background: url(../images/mobile/austin/_horizontalAustinSedan.svg);
+		background: url(../../../assets/images/mobile/austin/_horizontalAustinSedan.svg);
 		background-repeat: no-repeat;
 		background-position: center;
 		background-size: cover;

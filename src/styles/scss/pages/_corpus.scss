@@ -2,12 +2,12 @@
 
 	#corpus {
 		@media screen and (min-width: 767px) {
-			background: url(../images/bkgd/corpus.png);
+			background: url(../../../assets/images/bkgd/corpus.png);
 			@media only screen and (-webkit-min-device-pixel-ratio: 1.5), 
 				only screen and (   min--moz-device-pixel-ratio: 1.5),
 				only screen and (     -o-min-device-pixel-ratio: 3/2),
 				only screen and (        min-device-pixel-ratio: 1.5) { 
-					background: url(../images/bkgd/corpus@2x.png);
+					background: url(../../../assets/images/bkgd/corpus@2x.png);
 					background-size: 1440px 720px;
 				}
 			background-repeat: no-repeat;
@@ -83,14 +83,14 @@
 		}
 
 		.plate {
-			background: url(../images/plates/plateCorpus.png);
+			background: url(../../../assets/images/plates/plateCorpus.png);
 			background-size: 100% 100%;
 			background-repeat: no-repeat;
 			@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
 				only screen and (   min--moz-device-pixel-ratio: 1.5),
 				only screen and (     -o-min-device-pixel-ratio: 3/2),
 				only screen and (        min-device-pixel-ratio: 1.5) {
-					background: url(../images/plates/plateCorpus@2x.png);
+					background: url(../../../assets/images/plates/plateCorpus@2x.png);
 					background-size: 326px 164px;
 					@media screen and (max-width: 767px) {
 						background-size: 220px 114px;
@@ -100,10 +100,10 @@
 
 		.modal {
 			.good {
-				background-image: url(../images/modal/modalCorpusPass.png);
+				background-image: url(../../../assets/images/modal/modalCorpusPass.png);
 			}
 			.bad {
-				background-image: url(../images/modal/modalCorpusFail.png);
+				background-image: url(../../../assets/images/modal/modalCorpusFail.png);
 			}
 			.answer .left-side .medal div.good {
 				background-position: 36px 30px !important;
@@ -129,7 +129,7 @@
 
 @media screen and (max-width: 767px) {
 	/*.corpus-fg {
-		background: url(../images/bkgd/_corpusFg.svg);
+		background: url(../../../assets/images/bkgd/_corpusFg.svg);
 		background-repeat: no-repeat;
 		background-position: right bottom;
 		background-size: contain;
@@ -142,7 +142,7 @@
 	and (max-width: 767px)
 	and (orientation: portrait) {
 	.mobile-corpus-sport {
-		background: url(../images/mobile/corpus/_verticalCorpusSport.svg);
+		background: url(../../../assets/images/mobile/corpus/_verticalCorpusSport.svg);
 		background-repeat: no-repeat;
 		background-position: center;
 		background-size: cover;
@@ -153,7 +153,7 @@
 	and (max-width: 767px)
 	and (orientation: landscape) {
 	.mobile-corpus-sport {
-		background: url(../images/mobile/corpus/_horizontalCorpusSport.svg);
+		background: url(../../../assets/images/mobile/corpus/_horizontalCorpusSport.svg);
 		background-repeat: no-repeat;
 		background-position: center;
 		background-size: cover;
@@ -166,7 +166,7 @@
 	and (max-width: 767px)
 	and (orientation: portrait) {
 	.mobile-corpus-truck {
-		background: url(../images/mobile/corpus/_verticalCorpusTruck.svg);
+		background: url(../../../assets/images/mobile/corpus/_verticalCorpusTruck.svg);
 		background-repeat: no-repeat;
 		background-position: center;
 		background-size: cover;
@@ -177,7 +177,7 @@
 	and (max-width: 767px)
 	and (orientation: landscape) {
 	.mobile-corpus-truck {
-		background: url(../images/mobile/corpus/_horizontalCorpusTruck.svg);
+		background: url(../../../assets/images/mobile/corpus/_horizontalCorpusTruck.svg);
 		background-repeat: no-repeat;
 		background-position: center;
 		background-size: cover;
@@ -190,7 +190,7 @@
 	and (max-width: 767px)
 	and (orientation: portrait) {
 	.mobile-corpus-van {
-		background: url(../images/mobile/corpus/_verticalCorpusVan.svg);
+		background: url(../../../assets/images/mobile/corpus/_verticalCorpusVan.svg);
 		background-repeat: no-repeat;
 		background-position: center;
 		background-size: cover;
@@ -201,7 +201,7 @@
 	and (max-width: 767px)
 	and (orientation: landscape) {
 	.mobile-corpus-van {
-		background: url(../images/mobile/corpus/_horizontalCorpusVan.svg);
+		background: url(../../../assets/images/mobile/corpus/_horizontalCorpusVan.svg);
 		background-repeat: no-repeat;
 		background-position: center;
 		background-size: cover;
@@ -214,7 +214,7 @@
 	and (max-width: 767px)
 	and (orientation: portrait) {
 	.mobile-corpus-sedan {
-		background: url(../images/mobile/corpus/_verticalCorpusSedan.svg);
+		background: url(../../../assets/images/mobile/corpus/_verticalCorpusSedan.svg);
 		background-repeat: no-repeat;
 		background-position: center;
 		background-size: cover;
@@ -225,7 +225,7 @@
 	and (max-width: 767px)
 	and (orientation: landscape) {
 	.mobile-corpus-sedan {
-		background: url(../images/mobile/corpus/_horizontalCorpusSedan.svg);
+		background: url(../../../assets/images/mobile/corpus/_horizontalCorpusSedan.svg);
 		background-repeat: no-repeat;
 		background-position: center;
 		background-size: cover;

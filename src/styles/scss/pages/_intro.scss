@@ -1,13 +1,13 @@
   #trigger1 {
 
     .intro-fg {
-    background: url(../images/bkgd/intro.png);
+    background: url(../../../assets/images/bkgd/intro.png);
     background-repeat: no-repeat;
     background-position: center bottom;
     background-size: cover;
     }
 
-  	// background: url(../images/bkgd/_introBkgd.svg);
+  	// background: url(../../../assets/images/bkgd/_introBkgd.svg);
   	// background-position: center top;
   	// background-size: cover;
   	// background-color: #fff;
@@ -15,7 +15,7 @@
     #logo_dct {
       height: 80px;
     	width: auto;
-    	// background-image: url(../images/elements/logo_dct.png);
+    	// background-image: url(../../../assets/images/elements/logo_dct.png);
       background-image: url(../../../assets/images/elements/logo_dct.png);
       background-size: 14% auto;
       background-repeat: no-repeat;
@@ -27,7 +27,7 @@
     #logo_roadTrip {
       height: 120px;
     	width: auto;
-    	background-image: url(../images/elements/road-trip-logo.png);
+    	background-image: url(../../../assets/images/elements/road-trip-logo.png);
       background-size: 50% auto;
       background-repeat: no-repeat;
       background-position: center center;
@@ -73,14 +73,14 @@
         z-index: 30;
 
         &.left-arrow {
-          background: url(../images/elements/arrow_l.png);
+          background: url(../../../assets/images/elements/arrow_l.png);
           background-repeat: no-repeat;
           background-size: 64px 64px;
           top: 100px;
           left: 40px;
         }
         &.right-arrow {
-          background: url(../images/elements/arrow_r.png);
+          background: url(../../../assets/images/elements/arrow_r.png);
           background-repeat: no-repeat;
           background-size: 64px 64px;
           top: 100px;
@@ -135,7 +135,7 @@
     //
     #lane-lines {
       margin-top: 25px;
-      background: url(../images/elements/stripes.png);
+      background: url(../../../assets/images/elements/stripes.png);
       background-repeat: no-repeat;
       background-position: 0 13px;
       background-size: 100% auto;

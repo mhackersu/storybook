@@ -1,5 +1,5 @@
 .dfw-map {
-  background: url(../images/bkgd/_mapDfw.svg);
+  background: url(../../../assets/images/bkgd/_mapDfw.svg);
   background-repeat: no-repeat;
   background-position: center bottom;
   background-size: cover;
@@ -7,7 +7,7 @@
 
 @media screen and (min-width: 767px) {
 	.dfw-map {
-		background: url(../images/bkgd/_mapDfw.svg);
+		background: url(../../../assets/images/bkgd/_mapDfw.svg);
 		background-repeat: no-repeat;
 		background-position: center;
 		background-size: cover;
@@ -18,7 +18,7 @@
 	and (max-width: 749px)
 	and (orientation: portrait) {
 	.dfw-map {
-		background: url(../images/mobile/maps/_verticalDfwMap.svg);
+		background: url(../../../assets/images/mobile/maps/_verticalDfwMap.svg);
 		background-repeat: no-repeat;
 		background-position: center;
 		background-size: cover;
@@ -29,7 +29,7 @@
 	and (max-width: 667px)
 	and (orientation: landscape) {
 	.dfw-map {
-		background: url(../images/mobile/maps/_horizontalDfwMap.svg);
+		background: url(../../../assets/images/mobile/maps/_horizontalDfwMap.svg);
 		background-repeat: no-repeat;
 		background-position: center;
 		background-size: cover;

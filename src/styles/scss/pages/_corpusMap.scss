@@ -1,5 +1,5 @@
 .corpus-map {
-  background: url(../images/bkgd/_mapCorpus.svg);
+  background: url(../../../assets/images/bkgd/_mapCorpus.svg);
   background-repeat: no-repeat;
   background-position: center bottom;
   background-size: cover;
@@ -7,7 +7,7 @@
 
 @media screen and (min-width: 767px) {
 	.corpus-map {
-		background: url(../images/bkgd/_mapCorpus.svg);
+		background: url(../../../assets/images/bkgd/_mapCorpus.svg);
 		background-repeat: no-repeat;
 		background-position: center;
 		background-size: cover;
@@ -18,7 +18,7 @@
 	and (max-width: 749px)
 	and (orientation: portrait) {
 	.corpus-map {
-		background: url(../images/mobile/maps/_verticalCorpusMap.svg);
+		background: url(../../../assets/images/mobile/maps/_verticalCorpusMap.svg);
 		background-repeat: no-repeat;
 		background-position: center;
 		background-size: cover;
@@ -29,7 +29,7 @@
 	and (max-width: 667px)
 	and (orientation: landscape) {
 	.corpus-map {
-		background: url(../images/mobile/maps/_horizontalCorpusMap.svg);
+		background: url(../../../assets/images/mobile/maps/_horizontalCorpusMap.svg);
 		background-repeat: no-repeat;
 		background-position: center;
 		background-size: cover;
