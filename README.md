@@ -1,6 +1,6 @@
 # Storybook
 
-This project was originally written in JQuery and built with Gulp. Eventually, Gulp became less maintained and surpassing webpack, Vite was selected.
+This project was originally written in JQuery and built with Gulp. Eventually, Gulp became less maintained and surpassing webpack, Vite was selected. This rewrite is an attempt to determine the value of the code as a generic story book app.
 
 ## Dev
 ```
@@ -13,6 +13,9 @@ pnpm i & pnpm run dev
 - [ ] Port Images
 - [ ] Test Screen Loads
 - [ ] Load Languages
+
+## Visual Design
+[Visual Design](https://keepux-portfolio.netlify.app/ux-studies)
 
 ### React + Vite
 
