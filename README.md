@@ -1,6 +1,8 @@
 # Storybook
 
-This project was originally written in JQuery and built with Gulp. Eventually, Gulp became less maintained and surpassing webpack, Vite was selected. This rewrite is an attempt to determine the value of the code as a generic story book app.
+This project was originally written in 2017 using JQuery to toggle HTML classes; Most of the page controller logic was written in JQuery. SASS was chosen for styles, I think just because of the page repitition and how SASS would offer a way to keep the styles organized. Eventually, Gulp became less maintained and surpassing webpack and Vite was selected; This is around that same time while it is also being rewritten in React. The React rewrite is an attempt to port code that can handle generic storybook objects. It is also a point of the rewrite to keep the build healthy, especially with the large amount of stylesheets controlling object placement. This application is mobile-friendly and does rely on SVG objects for storyboard compositites and JSON data for the composite dialogs. This application is multi-lingual and currently uses [English](./src/data/english.js) & [Spanish](./src/data/espanol.js) languages.
+
+As of the latest commit, the SASS loads properly, imports fonts, and renders a simple React component. It was important for me to keep the build healthy, if anything, but to keep it available to work on here and there into the future.
 
 ## Dev
 ```
@@ -9,8 +11,8 @@ pnpm i & pnpm run dev
 
 ## Tasks
 
-- [ ] Port SASS
-- [ ] Port Images
+- [x] Port SASS
+- [-] Port Images
 - [ ] Test Screen Loads
 - [ ] Load Languages
 
