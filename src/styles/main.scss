@@ -1,1 +1,10 @@
-@import 'scss/init.scss';
+// @import 'scss/init.scss';
+
+@import 'scss/general/_reset';
+@import 'scss/general/_normalize';
+
+@import 'scss/pages/_app';
+@import 'scss/pages/_nav';
+@import 'scss/pages/_fonts';
+
+@import 'styles';
